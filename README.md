@@ -36,3 +36,7 @@ edge-object-detection-tensorrt/
 Refer to:
 - `docs/architecture.md`
 - `docs/evaluation.md`
+=======
+# edge-object-detection-tensorrt
+Edge-optimized real-time object detection using TensorRT, C++ and Python with performance evaluation on latency, throughput and memory usage.
+>>>>>>> 825ab1ba5107023a7a91602efa4c3b0ea75cc62a
