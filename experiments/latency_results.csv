@@ -1,0 +1,4 @@
+precision,avg_latency_ms
+FP32,38.5
+FP16,19.7
+INT8,14.2

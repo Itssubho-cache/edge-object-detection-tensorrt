@@ -1,0 +1,4 @@
+precision,fps
+FP32,26
+FP16,51
+INT8,70

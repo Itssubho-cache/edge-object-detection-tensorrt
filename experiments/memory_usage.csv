@@ -1,0 +1,4 @@
+precision,gpu_memory_mb
+FP32,820
+FP16,610
+INT8,470
